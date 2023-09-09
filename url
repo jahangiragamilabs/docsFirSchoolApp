@@ -1,8 +1,8 @@
 {
   "urls": [
-    "http://hpgov.eschoolbd.org/student/",
-    "https://mcc.edu.bd/student/",
-    "https://bafsc.edu.bd/student/"
+    "http://hpgov.eschoolbd.org/student/?autologin=true",
+    "https://mcc.edu.bd/student/?autologin=true",
+    "https://bafsc.edu.bd/student/?autologin=true"
   ]
 }
 
