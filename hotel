@@ -1,0 +1,176 @@
+"rooms": [
+    {
+      "catagory": "H",
+      "defaultPrice": 4000,
+      "total": 4,
+      "author": "a54df15af16af5a6f16af1",
+      "dns": "suJ2xAkVxc8S2jQxkkCn",
+      "id": "1ddUJpkOd91BKzpzlzc4",
+      "media": [
+        "https://www.chateau.co.nz/wp-content/uploads/sites/130/2020/09/TussockTavern-Food_2397.jpg",
+        "https://www.chateau.co.nz/wp-content/uploads/sites/130/2020/09/TussockTavern-Food_2397.jpg"
+      ],
+      "title": "Hill view dinner and breakfast",
+      "capacity": {
+        "adult": 4,
+        "child": 2
+      },
+      "advance": 2000,
+      "activePrice": 4000,
+      "activeAdvance": 2000,
+      "available": 4
+    },
+    {
+      "catagory": "D",
+      "defaultPrice": 500,
+      "total": 10,
+      "author": "a54df15af16af5a6f16af1",
+      "dns": "suJ2xAkVxc8S2jQxkkCn",
+      "id": "5IzhODcxTCfz6g2HyWfp",
+      "media": [
+        "https://www.chateau.co.nz/wp-content/uploads/sites/130/2020/09/TussockTavern-Food_2397.jpg",
+        "https://www.chateau.co.nz/wp-content/uploads/sites/130/2020/09/TussockTavern-Food_2397.jpg"
+      ],
+      "title": "Hill view dinner and breakfast",
+      "capacity": {
+        "adult": 4,
+        "child": 2
+      },
+      "advance": 2000,
+      "activePrice": 4000,
+      "activeAdvance": 2000,
+      "available": 4
+    },
+    {
+      "catagory": "S",
+      "defaultPrice": 2500,
+      "total": 2,
+      "author": "a54df15af16af5a6f16af1",
+      "dns": "suJ2xAkVxc8S2jQxkkCn",
+      "id": "INFa49I42IP1C5e5BtKk",
+      "media": [
+        "https://www.chateau.co.nz/wp-content/uploads/sites/130/2020/09/TussockTavern-Food_2397.jpg",
+        "https://www.chateau.co.nz/wp-content/uploads/sites/130/2020/09/TussockTavern-Food_2397.jpg"
+      ],
+      "title": "Hill view dinner and breakfast",
+      "capacity": {
+        "adult": 4,
+        "child": 2
+      },
+      "advance": 2000,
+      "activePrice": 4000,
+      "activeAdvance": 2000,
+      "available": 4
+    },
+    {
+      "catagory": "D",
+      "defaultPrice": 500,
+      "total": 10,
+      "author": "a54df15af16af5a6f16af1",
+      "dns": "suJ2xAkVxc8S2jQxkkCn",
+      "id": "WXCABJfKGu0AJDt7ZsUW",
+      "media": [
+        "https://www.chateau.co.nz/wp-content/uploads/sites/130/2020/09/TussockTavern-Food_2397.jpg",
+        "https://www.chateau.co.nz/wp-content/uploads/sites/130/2020/09/TussockTavern-Food_2397.jpg"
+      ],
+      "title": "Hill view dinner and breakfast",
+      "capacity": {
+        "adult": 4,
+        "child": 2
+      },
+      "advance": 2000,
+      "activePrice": 4000,
+      "activeAdvance": 2000,
+      "available": 4
+    },
+    {
+      "catagory": "A",
+      "defaultPrice": 1500,
+      "total": 4,
+      "author": "a54df15af16af5a6f16af1",
+      "dns": "suJ2xAkVxc8S2jQxkkCn",
+      "id": "f9sXHVAVzlewozvOznYy",
+      "title": "Non AC single Bed room",
+      "capacity": {
+        "adult": 2,
+        "child": 3
+      },
+      "advance": 500,
+      "media": [
+        "https://www.chateau.co.nz/wp-content/uploads/sites/130/2020/09/TussockTavern-Food_2397.jpg",
+        "https://www.chateau.co.nz/wp-content/uploads/sites/130/2020/09/TussockTavern-Food_2397.jpg"
+      ],
+      "title": "Hill view dinner and breakfast",
+      "capacity": {
+        "adult": 4,
+        "child": 2
+      },
+      "advance": 2000,
+      "activePrice": 4000,
+      "activeAdvance": 2000,
+      "available": 4
+    },
+    {
+      "catagory": "A",
+      "defaultPrice": 2000,
+      "total": 4,
+      "author": "a54df15af16af5a6f16af1",
+      "dns": "suJ2xAkVxc8S2jQxkkCn",
+      "id": "fKYWQpyUwUkXjDzj3y3W",
+      "media": [
+        "https://www.chateau.co.nz/wp-content/uploads/sites/130/2020/09/TussockTavern-Food_2397.jpg",
+        "https://www.chateau.co.nz/wp-content/uploads/sites/130/2020/09/TussockTavern-Food_2397.jpg"
+      ],
+      "title": "Hill view dinner and breakfast",
+      "capacity": {
+        "adult": 4,
+        "child": 2
+      },
+      "advance": 2000,
+      "activePrice": 4000,
+      "activeAdvance": 2000,
+      "available": 4
+    },
+    {
+      "catagory": "S",
+      "defaultPrice": 3000,
+      "total": 4,
+      "author": "a54df15af16af5a6f16af1",
+      "dns": "suJ2xAkVxc8S2jQxkkCn",
+      "id": "qOK0lcVvO7R5hoRca9oB",
+      "media": [
+        "https://www.chateau.co.nz/wp-content/uploads/sites/130/2020/09/TussockTavern-Food_2397.jpg",
+        "https://www.chateau.co.nz/wp-content/uploads/sites/130/2020/09/TussockTavern-Food_2397.jpg"
+      ],
+      "title": "Hill view dinner and breakfast",
+      "capacity": {
+        "adult": 4,
+        "child": 2
+      },
+      "advance": 2000,
+      "activePrice": 4000,
+      "activeAdvance": 2000,
+      "available": 4
+    },
+    {
+      "catagory": "H",
+      "defaultPrice": 2000,
+      "total": 4,
+      "author": "a54df15af16af5a6f16af1",
+      "dns": "suJ2xAkVxc8S2jQxkkCn",
+      "id": "uIc9SMt07NWfQtSYu08E",
+      "media": [
+        "https://www.chateau.co.nz/wp-content/uploads/sites/130/2020/09/TussockTavern-Food_2397.jpg",
+        "https://www.chateau.co.nz/wp-content/uploads/sites/130/2020/09/TussockTavern-Food_2397.jpg"
+      ],
+      "title": "Hill view dinner and breakfast",
+      "capacity": {
+        "adult": 4,
+        "child": 2
+      },
+      "advance": 2000,
+      "activePrice": 4000,
+      "activeAdvance": 2000,
+      "available": 4
+    }
+  ]
