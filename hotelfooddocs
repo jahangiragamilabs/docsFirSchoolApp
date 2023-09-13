@@ -1,6 +1,6 @@
 "foods": [
     { 
-      "catagory": "H",
+      "catagory": "H", 
       "defaultPrice": 4000,
       "total": 4,
       "author": "a54df15af16af5a6f16af1",
