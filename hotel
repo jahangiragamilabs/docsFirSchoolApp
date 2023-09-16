@@ -1,7 +1,7 @@
 {
-"foods": [
+  "foods": [
     {
-      "catagory": "H",
+      "category": "H",
       "defaultPrice": 4000,
       "total": 4,
       "author": "a54df15af16af5a6f16af1",
@@ -24,11 +24,11 @@
       "activePrice": 4000,
       "activeAdvance": 2000,
       "OfferPrice": 1000,
-      "status" : "available",
+      "status": "available",
       "available": 4
     },
     {
-      "catagory": "D",
+      "category": "D",
       "defaultPrice": 500,
       "total": 10,
       "author": "a54df15af16af5a6f16af1",
@@ -38,7 +38,7 @@
         "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/mystical-1.jpg",
         "https://www.chateau.co.nz/wp-content/uploads/sites/130/2020/09/TussockTavern-Food_2397.jpg"
       ],
-      "title": "Hill view dinner and breakfast",
+      "title": "Dinner and Breakfast",
       "capacity": {
         "adult": 4,
         "child": 2
@@ -47,11 +47,11 @@
       "activePrice": 4000,
       "activeAdvance": 2000,
       "OfferPrice": 1000,
-      "status" : "available",
+      "status": "available",
       "available": 4
     },
     {
-      "catagory": "S",
+      "category": "S",
       "defaultPrice": 2500,
       "total": 2,
       "author": "a54df15af16af5a6f16af1",
@@ -61,20 +61,20 @@
         "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/21598516207307.jpg",
         "https://www.chateau.co.nz/wp-content/uploads/sites/130/2020/09/TussockTavern-Food_2397.jpg"
       ],
-      "title": "Hill view dinner and breakfast",
+      "title": "Single Bed Room",
       "capacity": {
         "adult": 4,
         "child": 2
       },
-     "advance": 2000,
+      "advance": 2000,
       "activePrice": 4000,
       "activeAdvance": 2000,
       "OfferPrice": 1000,
-      "status" : "available",
+      "status": "available",
       "available": 4
     },
     {
-      "catagory": "D",
+      "category": "D",
       "defaultPrice": 500,
       "total": 10,
       "author": "a54df15af16af5a6f16af1",
@@ -84,7 +84,7 @@
         "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/figandmapledelhi-263253329-283845430349943-4539949668889758426-n1.jpg",
         "https://www.chateau.co.nz/wp-content/uploads/sites/130/2020/09/TussockTavern-Food_2397.jpg"
       ],
-      "title": "Hill view dinner and breakfast",
+      "title": "Dinner and Breakfast",
       "capacity": {
         "adult": 4,
         "child": 2
@@ -93,40 +93,31 @@
       "activePrice": 4000,
       "activeAdvance": 2000,
       "OfferPrice": 1000,
-      "status" : "available",
+      "status": "available",
       "available": 4
     },
     {
-      "catagory": "A",
+      "category": "A",
       "defaultPrice": 1500,
       "total": 4,
       "author": "a54df15af16af5a6f16af1",
       "dns": "suJ2xAkVxc8S2jQxkkCn",
       "id": "f9sXHVAVzlewozvOznYy",
-      "title": "Non AC single Bed room",
+      "media": [
+        "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/noshi-yum-asian-delivery-1.jpg",
+        "https://www.chateau.co.nz/wp-content/uploads/sites/130/2020/09/TussockTavern-Food_2397.jpg"
+      ],
+      "title": "Non AC Single Bed Room",
       "capacity": {
         "adult": 2,
         "child": 3
       },
       "advance": 500,
-      "media": [
-        "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/noshi-yum-asian-delivery-1.jpg",
-        "https://www.chateau.co.nz/wp-content/uploads/sites/130/2020/09/TussockTavern-Food_2397.jpg"
-      ],
-      "title": "Hill view dinner and breakfast",
-      "capacity": {
-        "adult": 4,
-        "child": 2
-      },
-      "advance": 2000,
-      "activePrice": 4000,
-      "activeAdvance": 2000,
-      "OfferPrice": 1000,
-      "status" : "available",
+      "status": "available",
       "available": 4
     },
     {
-      "catagory": "A",
+      "category": "A",
       "defaultPrice": 2000,
       "total": 4,
       "author": "a54df15af16af5a6f16af1",
@@ -136,20 +127,17 @@
         "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/mahabelly1585301800135.jpg",
         "https://www.chateau.co.nz/wp-content/uploads/sites/130/2020/09/TussockTavern-Food_2397.jpg"
       ],
-      "title": "Hill view dinner and breakfast",
+      "title": "Non AC Single Bed Room",
       "capacity": {
         "adult": 4,
         "child": 2
       },
       "advance": 2000,
-      "activePrice": 4000,
-      "activeAdvance": 2000,
-      "OfferPrice": 1000,
-      "status" : "available",
+      "status": "available",
       "available": 4
     },
     {
-      "catagory": "S",
+      "category": "S",
       "defaultPrice": 3000,
       "total": 4,
       "author": "a54df15af16af5a6f16af1",
@@ -159,20 +147,17 @@
         "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/moti-mahal-deluxe-1.jpg",
         "https://www.chateau.co.nz/wp-content/uploads/sites/130/2020/09/TussockTavern-Food_2397.jpg"
       ],
-      "title": "Hill view dinner and breakfast",
+      "title": "Single Bed Room",
       "capacity": {
         "adult": 4,
         "child": 2
       },
       "advance": 2000,
-      "activePrice": 4000,
-      "activeAdvance": 2000,
-      "OfferPrice": 1000,
-      "status" : "available",
+      "status": "available",
       "available": 4
     },
     {
-      "catagory": "H",
+      "category": "H",
       "defaultPrice": 2000,
       "total": 4,
       "author": "a54df15af16af5a6f16af1",
@@ -182,18 +167,14 @@
         "https://www.chateau.co.nz/wp-content/uploads/sites/130/2020/09/TussockTavern-Food_2397.jpg",
         "https://www.chateau.co.nz/wp-content/uploads/sites/130/2020/09/TussockTavern-Food_2397.jpg"
       ],
-      "title": "Hill view dinner and breakfast",
+      "title": "Hill View Room",
       "capacity": {
         "adult": 4,
         "child": 2
       },
       "advance": 2000,
-      "activePrice": 4000,
-      "activeAdvance": 2000,
-      "OfferPrice": 1000,
-      "status" : "available",
+      "status": "available",
       "available": 4
     }
   ]
-
 }
